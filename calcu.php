@@ -110,7 +110,7 @@
     <center>
         <h1>TAXXY: A TAX CALCULATOR </h1>
         <form method="post">
-        <center> <img src="https://pbs.twimg.com/media/Eos4zSOVQAAQcp2.jpg" ; width="650" height="450" ; border="5" id="img"> </center>
+        </center>
             <p>Salary:
                 <input type="text" id="salary" name="salary" size="30">
             </p>
